@@ -1,0 +1,31 @@
+📌 Features
+- Add students
+- Add subjects
+- Enter marks
+- Calculate total marks
+- Calculate percentage
+- Calculate grade
+- Determine Pass/Fail
+- View student result
+- Search students
+- Delete students
+- Generate class statistics
+- JSON data storage
+- Modular file structure
+
+📁 Folder Structure
+student-result-management/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── utils.py
+├── student_manager.py
+├── result_manager.py
+├── report_manager.py
+│
+├── data/
+│   ├── students.json
+│   └── results.json
+│
+└── README.md
